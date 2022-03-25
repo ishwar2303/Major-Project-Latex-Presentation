@@ -46,9 +46,11 @@
         \item
         \textbf
         {Mention Algorithm}:- Fisher-Yates Shuffle Algorithm for shuffling questions in a section.
-
-
-
+        
+        \medskip
+        \item
+        \textbf
+        {Add more references}:- Done
 \end{frame}
 
 \section{Objectives}
@@ -199,6 +201,32 @@ Aishwarya Sanjay Gunjal, Puspendu Biswas & Online Examination System & HTML, JSP
         \includegraphics[width=100mm,scale=1]{Fisher Yates Shuffle Final.png}
     \end{center}
 \end{frame}
+
+\section{Partial Implementation}
+\begin{frame}{Partial Implementation}
+    \small
+        \medskip
+        \item
+        \textbf
+        {QuizWit}:- React app UI for Home Page/Services/Contact Us/Registration/FAQ
+    
+        \medskip
+        \item
+        \textbf
+        {Registration}:- Administrator and Student registration
+    
+        \medskip
+        \item
+        \textbf
+        {Login}:- Administrator and Management User login.
+        
+        \medskip
+        \item
+        \textbf
+        {Management User}:- Create/Delete/Update Roles/Update Status
+        
+\end{frame}
+
 
 \section{References}
 \begin{frame}{References}
